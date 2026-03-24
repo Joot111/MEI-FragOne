@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">FragOne</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Uso de Fragmentos!</string>
+
+    <!--- textos a serem utilizados nos fragments -->
+    <string name="textFragment1">Fragmento 1</string>
+    <string name="bttFragment1">Clique aqui para o Fragmento 1</string>
+
+    <string name="textFragment2">Fragmento 2</string>
+    <string name="bttFragment2">Clique aqui para o Fragmento 2</string>
+
+    <string name="textFragment3">Fragmento 3</string>
+    <string name="bttFragment3">Clique aqui para o Fragmento 3</string>
+
+    <string name="msgPar">O número do fragmento é par!</string>
+    <string name="msgImpar">O número do fragmento é ímpar!</string>
 </resources>
